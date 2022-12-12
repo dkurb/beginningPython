@@ -9,5 +9,3 @@ def isPalindrome(head):
                 palindrome = True
 
     return palindrome
-
-print(isPalindrome([3,4,5,6,7,7,8,8,7,7,6,5,4,3]))
